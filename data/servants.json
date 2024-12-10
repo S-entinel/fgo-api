@@ -1,0 +1,2570 @@
+[
+  {
+    "id": 1,
+    "name": "Mashu Kyrielight",
+    "class": "★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 2,
+    "name": "Mashu Kyrielight",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 3,
+    "name": "Mashu Kyrielight",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 4,
+    "name": "Artoria Pendragon",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 5,
+    "name": "Artoria Pendragon (Alter)",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 6,
+    "name": "Artoria Pendragon (Lily)",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 7,
+    "name": "Nero Claudius",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 8,
+    "name": "Siegfried",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 9,
+    "name": "Gaius Julius Caesar",
+    "class": "★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 10,
+    "name": "Altera",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 11,
+    "name": "Gilles de Rais (Saber)",
+    "class": "★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 12,
+    "name": "Chevalier d'Eon",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 13,
+    "name": "Okita Sōji",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 14,
+    "name": "Fergus mac Róich",
+    "class": "★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 15,
+    "name": "Mordred",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 16,
+    "name": "Nero Claudius (Bride)",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 17,
+    "name": "Ryōgi Shiki (Saber)",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 18,
+    "name": "Rama",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 19,
+    "name": "Lancelot (Saber)",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 20,
+    "name": "Gawain",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 21,
+    "name": "Bedivere",
+    "class": "★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 22,
+    "name": "Elizabeth Báthory (Brave)",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 23,
+    "name": "Miyamoto Musashi",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 24,
+    "name": "Arthur Pendragon (Prototype)",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 25,
+    "name": "Suzuka Gozen",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 26,
+    "name": "Frankenstein (Saber)",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 27,
+    "name": "Yagyū Munenori",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 28,
+    "name": "Sigurd",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 29,
+    "name": "Queen Medb (Saber)",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 30,
+    "name": "Diarmuid Ua Duibhne (Saber)",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 31,
+    "name": "Lanling Wang",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 32,
+    "name": "Beni-Enma",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 33,
+    "name": "Lakshmibai",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 34,
+    "name": "Jason",
+    "class": "★",
+    "rarity": 0
+  },
+  {
+    "id": 35,
+    "name": "Katsushika Hokusai (Saber)",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 36,
+    "name": "Astolfo (Saber)",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 37,
+    "name": "Dioscuri",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 38,
+    "name": "Tomoe Gozen (Saber)",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 39,
+    "name": "Saitō Hajime",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 40,
+    "name": "Watanabe no Tsuna",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 41,
+    "name": "Ibuki Dōji",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 42,
+    "name": "Karna (Santa)",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 43,
+    "name": "Senji Muramasa",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 44,
+    "name": "Barghest",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 45,
+    "name": "Okita Sōji (Saber Alter)",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 46,
+    "name": "Trung Sisters",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 47,
+    "name": "Charlemagne",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 48,
+    "name": "Roland",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 49,
+    "name": "Gareth (Saber)",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 50,
+    "name": "Yamanami Keisuke",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 51,
+    "name": "Sétanta",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 52,
+    "name": "Medusa (Saber)",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 53,
+    "name": "Theseus",
+    "class": "★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 54,
+    "name": "Yamato Takeru",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 55,
+    "name": "Miyamoto Iori",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 56,
+    "name": "EMIYA",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 57,
+    "name": "Gilgamesh",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 58,
+    "name": "Robin Hood",
+    "class": "★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 59,
+    "name": "Atalanta",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 60,
+    "name": "Euryale",
+    "class": "★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 61,
+    "name": "Arash",
+    "class": "★",
+    "rarity": 0
+  },
+  {
+    "id": 62,
+    "name": "Orion",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 63,
+    "name": "David",
+    "class": "★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 64,
+    "name": "Oda Nobunaga",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 65,
+    "name": "Nikola Tesla",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 66,
+    "name": "Arjuna",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 67,
+    "name": "Kid Gil",
+    "class": "★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 68,
+    "name": "Billy the Kid",
+    "class": "★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 69,
+    "name": "Tristan",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 70,
+    "name": "Tawara Tōta",
+    "class": "★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 71,
+    "name": "Artoria Pendragon (Archer)",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 72,
+    "name": "Anne Bonny & Mary Read (Archer)",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 73,
+    "name": "Chloe von Einzbern",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 74,
+    "name": "Ishtar",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 75,
+    "name": "James Moriarty",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 76,
+    "name": "EMIYA (Alter)",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 77,
+    "name": "Helena Blavatsky (Archer)",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 78,
+    "name": "Tomoe Gozen",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 79,
+    "name": "Altera the San(ta)",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 80,
+    "name": "Asagami Fujino",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 81,
+    "name": "Chiron",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 82,
+    "name": "Napoléon",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 83,
+    "name": "Jeanne d'Arc (Archer)",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 84,
+    "name": "William Tell",
+    "class": "★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 85,
+    "name": "Aśvatthāman",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 86,
+    "name": "Paris",
+    "class": "★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 87,
+    "name": "Osakabehime (Archer)",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 88,
+    "name": "Calamity Jane",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 89,
+    "name": "Nightingale (Santa)",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 90,
+    "name": "Super Orion",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 91,
+    "name": "Sei Shōnagon",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 92,
+    "name": "Illyasviel von Einzbern (Archer)",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 93,
+    "name": "Oda Nobukatsu",
+    "class": "★",
+    "rarity": 0
+  },
+  {
+    "id": 94,
+    "name": "Baobhan Sith",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 95,
+    "name": "Anastasia & Viy",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 96,
+    "name": "Zenobia",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 97,
+    "name": "Minamoto no Tametomo",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 98,
+    "name": "Takasugi Shinsaku",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 99,
+    "name": "Durga",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 100,
+    "name": "UDK-Barghest",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 101,
+    "name": "Ptolemaios",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 102,
+    "name": "Sugitani Zenjūbō",
+    "class": "★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 103,
+    "name": "Saika Magoichi",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 104,
+    "name": "Tutankhamun",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 105,
+    "name": "Cú Chulainn",
+    "class": "★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 106,
+    "name": "Elizabeth Báthory",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 107,
+    "name": "Musashibō Benkei",
+    "class": "★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 108,
+    "name": "Cú Chulainn (Prototype)",
+    "class": "★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 109,
+    "name": "Leonidas I",
+    "class": "★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 110,
+    "name": "Romulus",
+    "class": "★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 111,
+    "name": "Hector",
+    "class": "★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 112,
+    "name": "Scáthach",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 113,
+    "name": "Diarmuid Ua Duibhne",
+    "class": "★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 114,
+    "name": "Artoria Pendragon (Lancer Alter)",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 115,
+    "name": "Karna",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 116,
+    "name": "Fionn mac Cumhaill",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 117,
+    "name": "Brynhildr",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 118,
+    "name": "Li Shuwen (Lancer)",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 119,
+    "name": "Artoria Pendragon (Lancer)",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 120,
+    "name": "Tamamo no Mae (Lancer)",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 121,
+    "name": "Kiyohime (Lancer)",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 122,
+    "name": "Vlad III (EXTRA)",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 123,
+    "name": "Jeanne d'Arc Alter Santa Lily",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 124,
+    "name": "Enkidu",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 125,
+    "name": "Medusa (Lancer)",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 126,
+    "name": "Jaguar Man",
+    "class": "★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 127,
+    "name": "Minamoto no Raikō (Lancer)",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 128,
+    "name": "Parvati",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 129,
+    "name": "Hōzōin Inshun",
+    "class": "★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 130,
+    "name": "Nezha",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 131,
+    "name": "Ereshkigal",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 132,
+    "name": "Valkyrie",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 133,
+    "name": "Ibaraki Dōji (Lancer)",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 134,
+    "name": "Qin Liangyu",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 135,
+    "name": "Bradamante",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 136,
+    "name": "Nagao Kagetora",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 137,
+    "name": "Gareth",
+    "class": "★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 138,
+    "name": "Mysterious Alter Ego Λ",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 139,
+    "name": "Caenis",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 140,
+    "name": "Romulus-Quirinus",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 141,
+    "name": "Utsumi Erice",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 142,
+    "name": "Consort Yu (Lancer)",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 143,
+    "name": "Vritra",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 144,
+    "name": "Mélusine",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 145,
+    "name": "Percival",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 146,
+    "name": "Sakamoto Ryōma (Lancer)",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 147,
+    "name": "Mary Anning",
+    "class": "★",
+    "rarity": 0
+  },
+  {
+    "id": 148,
+    "name": "Don Quixote",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 149,
+    "name": "Britomart",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 150,
+    "name": "Bhima",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 151,
+    "name": "Dobrynya Nikitich (Lancer)",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 152,
+    "name": "Van Gogh (Miner)",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 153,
+    "name": "Medusa",
+    "class": "★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 154,
+    "name": "Georgios",
+    "class": "★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 155,
+    "name": "Edward Teach",
+    "class": "★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 156,
+    "name": "Boudica",
+    "class": "★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 157,
+    "name": "Ushiwakamaru",
+    "class": "★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 158,
+    "name": "Alexander",
+    "class": "★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 159,
+    "name": "Marie Antoinette",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 160,
+    "name": "Martha",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 161,
+    "name": "Francis Drake",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 162,
+    "name": "Anne Bonny & Mary Read",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 163,
+    "name": "Artoria Pendragon (Santa Alter)",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 164,
+    "name": "Astolfo",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 165,
+    "name": "Queen Medb",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 166,
+    "name": "Iskandar",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 167,
+    "name": "Sakata Kintoki (Rider)",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 168,
+    "name": "Ozymandias",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 169,
+    "name": "Mordred (Rider)",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 170,
+    "name": "Quetzalcoatl",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 171,
+    "name": "Christopher Columbus",
+    "class": "★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 172,
+    "name": "Artoria Pendragon (Rider Alter)",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 173,
+    "name": "Ishtar (Rider)",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 174,
+    "name": "Ivan the Terrible",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 175,
+    "name": "Achilles",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 176,
+    "name": "Sakamoto Ryōma",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 177,
+    "name": "Red Hare",
+    "class": "★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 178,
+    "name": "Sima Yi (Reines)",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 179,
+    "name": "Leonardo Da Vinci (Rider)",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 180,
+    "name": "Bartholomew Roberts",
+    "class": "★",
+    "rarity": 0
+  },
+  {
+    "id": 181,
+    "name": "Carmilla (Rider)",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 182,
+    "name": "Mandricardo",
+    "class": "★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 183,
+    "name": "Europa",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 184,
+    "name": "Odysseus",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 185,
+    "name": "Murasaki Shikibu (Rider)",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 186,
+    "name": "Nemo",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 187,
+    "name": "Habetrot",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 188,
+    "name": "Caenis (Rider)",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 189,
+    "name": "Elizabeth Báthory (Cinderella)",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 190,
+    "name": "Taigong Wang",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 191,
+    "name": "Dobrynya Nikitich",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 192,
+    "name": "Constantine XI",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 193,
+    "name": "Kyokutei Bakin",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 194,
+    "name": "Huang Feihu",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 195,
+    "name": "Suzuka Gozen (Summer Vacation)",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 196,
+    "name": "Takeda Shingen",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 197,
+    "name": "Nemo (Santa)",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 198,
+    "name": "Andromeda",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 199,
+    "name": "Medea",
+    "class": "★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 200,
+    "name": "Gilles de Rais",
+    "class": "★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 201,
+    "name": "Hans Christian Andersen",
+    "class": "★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 202,
+    "name": "William Shakespeare",
+    "class": "★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 203,
+    "name": "Mephistopheles",
+    "class": "★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 204,
+    "name": "Wolfgang Amadeus Mozart",
+    "class": "★",
+    "rarity": 0
+  },
+  {
+    "id": 205,
+    "name": "Zhuge Liang (Lord El-Melloi II)",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 206,
+    "name": "Cú Chulainn (Caster)",
+    "class": "★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 207,
+    "name": "Elizabeth Báthory (Halloween)",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 208,
+    "name": "Tamamo no Mae",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 209,
+    "name": "Medea (Lily)",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 210,
+    "name": "Nursery Rhyme",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 211,
+    "name": "Paracelsus von Hohenheim",
+    "class": "★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 212,
+    "name": "Charles Babbage",
+    "class": "★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 213,
+    "name": "Solomon",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 214,
+    "name": "Helena Blavatsky",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 215,
+    "name": "Thomas Edison",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 216,
+    "name": "Geronimo",
+    "class": "★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 217,
+    "name": "Irisviel (Dress of Heaven)",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 218,
+    "name": "Xuanzang Sanzang",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 219,
+    "name": "Nitocris",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 220,
+    "name": "Leonardo Da Vinci",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 221,
+    "name": "Marie Antoinette (Caster)",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 222,
+    "name": "Illyasviel von Einzbern",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 223,
+    "name": "Gilgamesh (Caster)",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 224,
+    "name": "Merlin",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 225,
+    "name": "Solomon",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 226,
+    "name": "Scheherazade",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 227,
+    "name": "Nero Claudius (Caster)",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 228,
+    "name": "Circe",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 229,
+    "name": "Queen of Sheba",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 230,
+    "name": "Anastasia",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 231,
+    "name": "Avicebron",
+    "class": "★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 232,
+    "name": "Sieg",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 233,
+    "name": "Scáthach-Skaði",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 234,
+    "name": "Shuten Dōji (Caster)",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 235,
+    "name": "Miyu Edelfelt",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 236,
+    "name": "Murasaki Shikibu",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 237,
+    "name": "Asclepius",
+    "class": "★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 238,
+    "name": "Chen Gong",
+    "class": "★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 239,
+    "name": "Artoria Caster",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 240,
+    "name": "Miss Crane",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 241,
+    "name": "Charlotte Corday (Caster)",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 242,
+    "name": "Izumo no Okuni",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 243,
+    "name": "Martha (Santa)",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 244,
+    "name": "Daikokuten",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 245,
+    "name": "Zhang Jue",
+    "class": "★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 246,
+    "name": "Wu Zetian (Caster)",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 247,
+    "name": "Aesc the Savior",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 248,
+    "name": "Yui Shōsetsu",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 249,
+    "name": "Kuonji Alice",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 250,
+    "name": "Sasaki Kojirō",
+    "class": "★",
+    "rarity": 0
+  },
+  {
+    "id": 251,
+    "name": "Hassan of the Cursed Arm",
+    "class": "★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 252,
+    "name": "Stheno",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 253,
+    "name": "Jing Ke",
+    "class": "★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 254,
+    "name": "Charles-Henri Sanson",
+    "class": "★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 255,
+    "name": "Phantom of the Opera",
+    "class": "★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 256,
+    "name": "Mata Hari",
+    "class": "★",
+    "rarity": 0
+  },
+  {
+    "id": 257,
+    "name": "Carmilla",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 258,
+    "name": "Jack the Ripper",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 259,
+    "name": "Henry Jekyll & Hyde",
+    "class": "★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 260,
+    "name": "Mysterious Heroine X",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 261,
+    "name": "Ryōgi Shiki (Assassin)",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 262,
+    "name": "EMIYA (Assassin)",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 263,
+    "name": "Hassan of the Hundred Faces",
+    "class": "★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 264,
+    "name": "Shuten Dōji",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 265,
+    "name": "Fūma Kotarō",
+    "class": "★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 266,
+    "name": "Hassan of the Serenity",
+    "class": "★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 267,
+    "name": "Scáthach (Assassin)",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 268,
+    "name": "Cleopatra",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 269,
+    "name": "\"The Old Man of the Mountain\"",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 270,
+    "name": "Yan Qing",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 271,
+    "name": "Wu Zetian",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 272,
+    "name": "Nitocris (Assassin)",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 273,
+    "name": "Mochizuki Chiyome",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 274,
+    "name": "Katō Danzō",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 275,
+    "name": "Osakabehime",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 276,
+    "name": "Semiramis",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 277,
+    "name": "Okada Izō",
+    "class": "★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 278,
+    "name": "Ushiwakamaru (Assassin)",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 279,
+    "name": "Consort Yu",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 280,
+    "name": "Li Shuwen",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 281,
+    "name": "Kama",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 282,
+    "name": "Gray",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 283,
+    "name": "Charlotte Corday",
+    "class": "★",
+    "rarity": 0
+  },
+  {
+    "id": 284,
+    "name": "Okita J Sōji",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 285,
+    "name": "Kiichi Hōgen",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 286,
+    "name": "Koyanskaya of Light",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 287,
+    "name": "Thrúd (Assassin)",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 288,
+    "name": "Hildr (Assassin)",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 289,
+    "name": "Ortlinde (Assassin)",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 290,
+    "name": "Huyan Zhuo",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 291,
+    "name": "Tezcatlipoca",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 292,
+    "name": "Locusta",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 293,
+    "name": "Kashin Koji",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 294,
+    "name": "Hassan of the Shining Star",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 295,
+    "name": "Heracles",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 296,
+    "name": "Lancelot",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 297,
+    "name": "Lu Bu Fengxian",
+    "class": "★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 298,
+    "name": "Spartacus",
+    "class": "★",
+    "rarity": 0
+  },
+  {
+    "id": 299,
+    "name": "Sakata Kintoki",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 300,
+    "name": "Vlad III",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 301,
+    "name": "Asterios",
+    "class": "★",
+    "rarity": 0
+  },
+  {
+    "id": 302,
+    "name": "Caligula",
+    "class": "★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 303,
+    "name": "Darius III",
+    "class": "★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 304,
+    "name": "Kiyohime",
+    "class": "★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 305,
+    "name": "Eric Bloodaxe",
+    "class": "★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 306,
+    "name": "Tamamo Cat",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 307,
+    "name": "Hyde",
+    "class": "★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 308,
+    "name": "Frankenstein",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 309,
+    "name": "Beowulf",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 310,
+    "name": "Nightingale",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 311,
+    "name": "Cú Chulainn (Alter)",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 312,
+    "name": "Minamoto no Raikō",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 313,
+    "name": "Ibaraki Dōji",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 314,
+    "name": "Mysterious Heroine X (Alter)",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 315,
+    "name": "Hijikata Toshizō",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 316,
+    "name": "Chacha",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 317,
+    "name": "Penthesilea",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 318,
+    "name": "Paul Bunyan",
+    "class": "★",
+    "rarity": 0
+  },
+  {
+    "id": 319,
+    "name": "Oda Nobunaga (Berserker)",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 320,
+    "name": "Atalanta (Alter)",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 321,
+    "name": "Jeanne d'Arc (Berserker Alter)",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 322,
+    "name": "Xiang Yu",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 323,
+    "name": "Arjuna (Alter)",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 324,
+    "name": "Mori Nagayoshi",
+    "class": "★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 325,
+    "name": "Salome",
+    "class": "★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 326,
+    "name": "Miyamoto Musashi (Berserker)",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 327,
+    "name": "Kijyo Kōyō",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 328,
+    "name": "Brynhildr (Berserker)",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 329,
+    "name": "Galatea",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 330,
+    "name": "Morgan",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 331,
+    "name": "Sei Shōnagon (Berserker)",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 332,
+    "name": "Kriemhild",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 333,
+    "name": "Ibuki Dōji (Berserker)",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 334,
+    "name": "Sen no Rikyū",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 335,
+    "name": "Duryodhana",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 336,
+    "name": "Artoria Caster (Berserker)",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 337,
+    "name": "Nagakura Shinpachi",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 338,
+    "name": "Shizuki Sōjūrō",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 339,
+    "name": "Jeanne d'Arc",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 340,
+    "name": "Amakusa Shirō",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 341,
+    "name": "Martha (Ruler)",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 342,
+    "name": "Sherlock Holmes",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 343,
+    "name": "Shi Huang Di",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 344,
+    "name": "Quetzalcoatl (Samba/Santa)",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 345,
+    "name": "Astraea",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 346,
+    "name": "Artoria Pendragon (Ruler)",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 347,
+    "name": "Himiko",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 348,
+    "name": "Amor (Caren)",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 349,
+    "name": "Leonardo Da Vinci (Ruler)",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 350,
+    "name": "James Moriarty (Ruler)",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 351,
+    "name": "Scáthach-Skaði (Ruler)",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 352,
+    "name": "Iyo",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 353,
+    "name": "Popess Johanna",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 354,
+    "name": "Mélusine (Ruler)",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 355,
+    "name": "Uesugi Kenshin",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 356,
+    "name": "Edmond Dantès",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 357,
+    "name": "Jeanne d'Arc (Alter)",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 358,
+    "name": "Angra Mainyu",
+    "class": "—",
+    "rarity": 0
+  },
+  {
+    "id": 359,
+    "name": "Gorgon",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 360,
+    "name": "Hessian Lobo",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 361,
+    "name": "Antonio Salieri",
+    "class": "★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 362,
+    "name": "Demon King Nobunaga",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 363,
+    "name": "Space Ishtar",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 364,
+    "name": "Taira no Kagekiyo",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 365,
+    "name": "Kama (Avenger)",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 366,
+    "name": "Mysterious Ranmaru X",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 367,
+    "name": "Utsumi Erice (Avenger)",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 368,
+    "name": "Nitocris (Alter)",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 369,
+    "name": "Chloe von Einzbern (Avenger)",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 370,
+    "name": "Ushi Gozen",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 371,
+    "name": "Marie Antoinette (Alter)",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 372,
+    "name": "The Count of Monte Cristo",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 373,
+    "name": "Xu Fu (Avenger)",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 374,
+    "name": "BB",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 375,
+    "name": "BB (Summer)",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 376,
+    "name": "Jinako Carigiri",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 377,
+    "name": "Sesshōin Kiara (Moon Cancer)",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 378,
+    "name": "Archetype: Earth",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 379,
+    "name": "Mysterious Executor C.I.E.L",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 380,
+    "name": "BB Dubai",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 381,
+    "name": "Tenochtitlan (Moon Cancer)",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 382,
+    "name": "Meltryllis",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 383,
+    "name": "Passionlip",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 384,
+    "name": "Sesshōin Kiara",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 385,
+    "name": "Mecha Eli-chan",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 386,
+    "name": "Mecha Eli-chan Mk.II",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 387,
+    "name": "Okita Sōji (Alter)",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 388,
+    "name": "Sitonai",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 389,
+    "name": "Kingprotea",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 390,
+    "name": "Ashiya Dōman",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 391,
+    "name": "Manannán mac Lir (Bazett)",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 392,
+    "name": "Taisui Xingjun",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 393,
+    "name": "Super Bunyan",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 394,
+    "name": "Xu Fu",
+    "class": "★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 395,
+    "name": "Grigori Rasputin",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 396,
+    "name": "Larva/Tiamat",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 397,
+    "name": "Azumi no Isora (Hibiki & Chikagi)",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 398,
+    "name": "Abigail Williams",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 399,
+    "name": "Katsushika Hokusai",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 400,
+    "name": "Mysterious Heroine XX",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 401,
+    "name": "Yang Guifei",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 402,
+    "name": "Voyager",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 403,
+    "name": "Abigail Williams (Summer)",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 404,
+    "name": "Van Gogh",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 405,
+    "name": "Mysterious Idol X (Alter)",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 406,
+    "name": "Jacques de Molay",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 407,
+    "name": "Koyanskaya of Darkness",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 408,
+    "name": "Kukulkan",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 409,
+    "name": "Cnoc na Riabh Yaraan-doo",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 410,
+    "name": "Wandjina",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 411,
+    "name": "Aozaki Aoko",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 412,
+    "name": "Mysterious Heroine XX (Alter)",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 413,
+    "name": "Oberon",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 414,
+    "name": "Hephaestion",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 415,
+    "name": "Lady Avalon",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 416,
+    "name": "Nine-Tattoo Dragon Eliza",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 417,
+    "name": "Tenochtitlan",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 418,
+    "name": "Cait Cú Cerpriestess",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 419,
+    "name": "Alessandro di Cagliostro",
+    "class": "★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 420,
+    "name": "Tiamat",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 421,
+    "name": "Goetia",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 422,
+    "name": "Beast III/R",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 423,
+    "name": "Beast III/L",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 424,
+    "name": "Beast IV",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 425,
+    "name": "Sodom's Beast/Draco",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  },
+  {
+    "id": 426,
+    "name": "Flare Marie",
+    "class": "—",
+    "rarity": 0
+  },
+  {
+    "id": 427,
+    "name": "Aqua Marie",
+    "class": "—",
+    "rarity": 0
+  },
+  {
+    "id": 428,
+    "name": "Space Ereshkigal",
+    "class": "★ ★ ★ ★ ★",
+    "rarity": 0
+  }
+]
